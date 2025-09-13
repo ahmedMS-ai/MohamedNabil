@@ -1,0 +1,12 @@
+\
+css_vars:
+  bg: #0b0d12
+  panel: #121420
+  card: #15182a
+  muted: #9aa1b2
+  text: #e6e9ef
+  brand: #7c5cff
+  brand2: #3bd4ff
+  border: #23273a
+  radius: 18px
+  maxw: 1160px

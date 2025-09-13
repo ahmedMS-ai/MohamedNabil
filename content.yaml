@@ -1,0 +1,50 @@
+\
+brand: Agent Thread
+nav:
+  - {label: "Features", href: "features"}
+  - {label: "How it works", href: "how"}
+  - {label: "FAQ", href: "faq"}
+hero:
+  title: Agent Thread Template
+  subtitle: Replace this with the exact headline/subheadline from your Felo preview.
+  badges: ["Multilingual", "Realtime", "Composable"]
+features:
+  title: Powerful Features
+  items:
+    - {icon: "⚡", title: "Fast setup", desc: "Copy content via content.yaml and assets/."}
+    - {icon: "🧩", title: "Modular", desc: "Sections can be toggled on/off."}
+    - {icon: "🌐", title: "i18n-ready", desc: "RTL/LTR safe with minimal tweaks."}
+how:
+  title: How it Works
+  steps:
+    - {index: 1, title: "Paste content", desc: "Update titles, paragraphs, and CTAs."}
+    - {index: 2, title: "Drop images", desc: "Place hero/screenshots under assets/."}
+    - {index: 3, title: "Run", desc: "streamlit run app.py"}
+stats:
+  title: At a Glance
+  items:
+    - {num: "2 min", label: "to set up"}
+    - {num: "1:1", label: "layout match ready"}
+    - {num: "100%", label: "editable"}
+quotes:
+  title: Loved by Makers
+  items:
+    - {text: "Pixel-matching starter!", author: "Designer", role: "Brand"}
+    - {text: "Clean code and structure.", author: "Engineer", role: "Platform"}
+    - {text: "Easy to maintain.", author: "PM", role: "Growth"}
+faq:
+  title: FAQ
+  items:
+    - {q: "How do I match 1:1?", a: "Replace text in content.yaml and images in assets/. Adjust tokens in tokens.yaml if needed."}
+    - {q: "Fonts?", a: "This uses system fonts by default; you can embed webfonts via styles.css."}
+cta:
+  primary_text: "Open Agent"
+  primary_link: "https://felo.ai"
+  secondary_text: "See Agents"
+  secondary_link: "https://felo.ai/en/agents"
+footer:
+  blurb: "A Streamlit landing template prepared to mirror your Felo preview layout."
+  links:
+    - {label: "Agents", href: "https://felo.ai/en/agents"}
+    - {label: "What's New", href: "https://felo.ai/version"}
+  year: 2025
